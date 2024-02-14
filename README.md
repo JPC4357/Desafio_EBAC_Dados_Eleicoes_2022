@@ -1,0 +1,1 @@
+O projeto foi realizdo em um evento online oferecido pela EBAC e explora a aplicação da análise de dados em um caso real, contemplando as fases de aquisição, extração, limpeza, tratamento e processamento de dados utilizando a linguagem python.
